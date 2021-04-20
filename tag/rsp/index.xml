@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>&#34;RSP&#34; | Academic</title>
+    <link>http://pbonte.github.io/tag/rsp/</link>
+      <atom:link href="http://pbonte.github.io/tag/rsp/index.xml" rel="self" type="application/rss+xml" />
+    <description>&#34;RSP&#34;</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://pbonte.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>&#34;RSP&#34;</title>
+      <link>http://pbonte.github.io/tag/rsp/</link>
+    </image>
+    
+    <item>
+      <title>RSP4J: An API for RDF Stream Processing</title>
+      <link>http://pbonte.github.io/publication/tommasini-2020-rsp-4-j/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>http://pbonte.github.io/publication/tommasini-2020-rsp-4-j/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Context-aware route planning : a personalized and situation-aware multi-modal transport routing approach</title>
+      <link>http://pbonte.github.io/publication/8681056/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>http://pbonte.github.io/publication/8681056/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>RDF Stream processing prototyping with streaming MASSIF</title>
+      <link>http://pbonte.github.io/publication/8681059/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>http://pbonte.github.io/publication/8681059/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>C-Sprite : efficient hierarchical reasoning for rapid RDF stream processing</title>
+      <link>http://pbonte.github.io/publication/8635009/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>http://pbonte.github.io/publication/8635009/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DIVIDE : adaptive context-aware query derivation for IoT data streams</title>
+      <link>http://pbonte.github.io/publication/8665820/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>http://pbonte.github.io/publication/8665820/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Efficiënte verwerking van heterogene IoT-data aan de hand van expressieve redeneertechnieken</title>
+      <link>http://pbonte.github.io/publication/8612860/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>http://pbonte.github.io/publication/8612860/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A query model for ontology-based event processing over RDF streams</title>
+      <link>http://pbonte.github.io/publication/8581984/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>http://pbonte.github.io/publication/8581984/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Context-aware patient monitoring through sensor streams</title>
+      <link>http://pbonte.github.io/publication/8577848/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>http://pbonte.github.io/publication/8577848/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Streaming MASSIF : cascading reasoning for efficient processing of iot data streams</title>
+      <link>http://pbonte.github.io/publication/8586329/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>http://pbonte.github.io/publication/8586329/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The MASSIF platform : a modular and semantic platform for the development of flexible IoT services</title>
+      <link>http://pbonte.github.io/publication/8533438/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>http://pbonte.github.io/publication/8533438/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Generic semantic platform for the user-friendly development of intelligent IoT services</title>
+      <link>http://pbonte.github.io/publication/8506056/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>http://pbonte.github.io/publication/8506056/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>User-friendly and scalable platform for the design of intelligent IoT services : a smart office use case</title>
+      <link>http://pbonte.github.io/publication/8506046/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>http://pbonte.github.io/publication/8506046/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

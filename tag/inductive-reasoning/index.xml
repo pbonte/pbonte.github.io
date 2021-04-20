@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>&#34;Inductive Reasoning&#34; | Academic</title>
+    <link>http://pbonte.github.io/tag/inductive-reasoning/</link>
+      <atom:link href="http://pbonte.github.io/tag/inductive-reasoning/index.xml" rel="self" type="application/rss+xml" />
+    <description>&#34;Inductive Reasoning&#34;</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://pbonte.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>&#34;Inductive Reasoning&#34;</title>
+      <link>http://pbonte.github.io/tag/inductive-reasoning/</link>
+    </image>
+    
+    <item>
+      <title>Context-aware and self-learning dynamic transport scheduling in hospitals</title>
+      <link>http://pbonte.github.io/publication/8541544/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>http://pbonte.github.io/publication/8541544/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Learning semantic rules for intelligent transport scheduling in hospitals</title>
+      <link>http://pbonte.github.io/publication/8505900/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>http://pbonte.github.io/publication/8505900/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mining semantic rules for optimizing transport assignments in hospitals</title>
+      <link>http://pbonte.github.io/publication/8506052/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>http://pbonte.github.io/publication/8506052/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Semantic context consolidation and rule learning for optimized transport assignments in hospitals</title>
+      <link>http://pbonte.github.io/publication/8500134/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>http://pbonte.github.io/publication/8500134/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

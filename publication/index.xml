@@ -5,12 +5,28 @@
     <link>http://pbonte.github.io/publication/</link>
       <atom:link href="http://pbonte.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>http://pbonte.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Publications</title>
       <link>http://pbonte.github.io/publication/</link>
     </image>
+    
+    <item>
+      <title>RSP4J: An API for RDF Stream Processing</title>
+      <link>http://pbonte.github.io/publication/tommasini-2020-rsp-4-j/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>http://pbonte.github.io/publication/tommasini-2020-rsp-4-j/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Towards an Evaluation Framework for  Expressive Stream Reasoning</title>
+      <link>http://pbonte.github.io/publication/bonte-2021-towards/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>http://pbonte.github.io/publication/bonte-2021-towards/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Conditional constraints for knowledge graph embeddings</title>
@@ -221,14 +237,6 @@
     </item>
     
     <item>
-      <title>Enhancement on Trial: an interactive and case-based debate on the ethics of human enhancement: report from the 11th IAB World Congress of Bioethics</title>
-      <link>http://pbonte.github.io/publication/3143619/</link>
-      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
-      <guid>http://pbonte.github.io/publication/3143619/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Evaluation and optimized usage of OWL 2 reasoners in an event-based eHealth context</title>
       <link>http://pbonte.github.io/publication/6990308/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
@@ -241,14 +249,6 @@
       <link>http://pbonte.github.io/publication/7033546/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
       <guid>http://pbonte.github.io/publication/7033546/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Freedom in the flesh : physically shaping oneself and one&#39;s future children : an ethical-existential critique</title>
-      <link>http://pbonte.github.io/publication/8507140/</link>
-      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
-      <guid>http://pbonte.github.io/publication/8507140/</guid>
       <description></description>
     </item>
     
@@ -273,22 +273,6 @@
       <link>http://pbonte.github.io/publication/7235308/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
       <guid>http://pbonte.github.io/publication/7235308/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Is there a moral obligation to conceive children under the best possible conditions? A preliminary framework for identifying the preconception responsibilities of ‘potential parents’</title>
-      <link>http://pbonte.github.io/publication/4233327/</link>
-      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
-      <guid>http://pbonte.github.io/publication/4233327/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>May the blessed Man win: a critique of the categorical preference for natural talent over doping as proper origins of athletic ability</title>
-      <link>http://pbonte.github.io/publication/4233795/</link>
-      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
-      <guid>http://pbonte.github.io/publication/4233795/</guid>
       <description></description>
     </item>
     
