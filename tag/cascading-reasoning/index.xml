@@ -1,30 +1,39 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>&#34;cascading reasoning&#34; | Academic</title>
-    <link>http://pbonte.github.io/tag/cascading-reasoning/</link>
-      <atom:link href="http://pbonte.github.io/tag/cascading-reasoning/index.xml" rel="self" type="application/rss+xml" />
-    <description>&#34;cascading reasoning&#34;</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <title>Cascading Reasoning | Academic</title>
+    <link>http://pieterbonte.be/tag/cascading-reasoning/</link>
+      <atom:link href="http://pieterbonte.be/tag/cascading-reasoning/index.xml" rel="self" type="application/rss+xml" />
+    <description>Cascading Reasoning</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 20 Apr 2021 11:44:31 +0200</lastBuildDate>
     <image>
-      <url>http://pbonte.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
-      <title>&#34;cascading reasoning&#34;</title>
-      <link>http://pbonte.github.io/tag/cascading-reasoning/</link>
+      <url>http://pieterbonte.be/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Cascading Reasoning</title>
+      <link>http://pieterbonte.be/tag/cascading-reasoning/</link>
     </image>
     
     <item>
+      <title>StreamingMASSIF</title>
+      <link>http://pieterbonte.be/project/streamingmassif/</link>
+      <pubDate>Tue, 20 Apr 2021 11:44:31 +0200</pubDate>
+      <guid>http://pieterbonte.be/project/streamingmassif/</guid>
+      <description>&lt;p&gt;StreamingMASSIF allows to perform cascading reasoning by combining various components. In its standard configuration it allows to filter meaningful events from a datastream through RDF Stream Processing, abstract the selection through DL reasoning and perform Complex Event Processing ontop of these abstraction.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Streaming MASSIF : cascading reasoning for efficient processing of iot data streams</title>
-      <link>http://pbonte.github.io/publication/8586329/</link>
+      <link>http://pieterbonte.be/publication/8586329/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>http://pbonte.github.io/publication/8586329/</guid>
+      <guid>http://pieterbonte.be/publication/8586329/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Towards a cascading reasoning framework to support responsive ambient-intelligent healthcare interventions</title>
-      <link>http://pbonte.github.io/publication/8581923/</link>
+      <link>http://pieterbonte.be/publication/8581923/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>http://pbonte.github.io/publication/8581923/</guid>
+      <guid>http://pieterbonte.be/publication/8581923/</guid>
       <description></description>
     </item>
     

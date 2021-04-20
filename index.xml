@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Academic</title>
-    <link>http://pbonte.github.io/</link>
-      <atom:link href="http://pbonte.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://pieterbonte.be/</link>
+      <atom:link href="http://pieterbonte.be/index.xml" rel="self" type="application/rss+xml" />
     <description>Academic</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://pbonte.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>http://pieterbonte.be/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Academic</title>
-      <link>http://pbonte.github.io/</link>
+      <link>http://pieterbonte.be/</link>
     </image>
     
     <item>
       <title>Example Talk</title>
-      <link>http://pbonte.github.io/talk/example/</link>
+      <link>http://pieterbonte.be/talk/example/</link>
       <pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate>
-      <guid>http://pbonte.github.io/talk/example/</guid>
+      <guid>http://pieterbonte.be/talk/example/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
@@ -33,58 +33,77 @@
     </item>
     
     <item>
+      <title>RSP4J: An API for RSP</title>
+      <link>http://pieterbonte.be/project/rsp4j/</link>
+      <pubDate>Tue, 20 Apr 2021 12:21:57 +0200</pubDate>
+      <guid>http://pieterbonte.be/project/rsp4j/</guid>
+      <description>&lt;p&gt;RSP4J is a library to build RDF Stream Processing (RSP) Engines according with the reference model RSP-QL.&lt;/p&gt;
+&lt;p&gt;RSP4J is inspired by the OWL API, and other work that aim at spreading the Semantic Web (Stream Reasoning) research by means of practical and usable software tools.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>StreamingMASSIF</title>
+      <link>http://pieterbonte.be/project/streamingmassif/</link>
+      <pubDate>Tue, 20 Apr 2021 11:44:31 +0200</pubDate>
+      <guid>http://pieterbonte.be/project/streamingmassif/</guid>
+      <description>&lt;p&gt;StreamingMASSIF allows to perform cascading reasoning by combining various components. In its standard configuration it allows to filter meaningful events from a datastream through RDF Stream Processing, abstract the selection through DL reasoning and perform Complex Event Processing ontop of these abstraction.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>RSP4J: An API for RDF Stream Processing</title>
-      <link>http://pbonte.github.io/publication/tommasini-2020-rsp-4-j/</link>
+      <link>http://pieterbonte.be/publication/tommasini-2020-rsp-4-j/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>http://pbonte.github.io/publication/tommasini-2020-rsp-4-j/</guid>
+      <guid>http://pieterbonte.be/publication/tommasini-2020-rsp-4-j/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Towards an Evaluation Framework for  Expressive Stream Reasoning</title>
-      <link>http://pbonte.github.io/publication/bonte-2021-towards/</link>
+      <link>http://pieterbonte.be/publication/bonte-2021-towards/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>http://pbonte.github.io/publication/bonte-2021-towards/</guid>
+      <guid>http://pieterbonte.be/publication/bonte-2021-towards/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Conditional constraints for knowledge graph embeddings</title>
-      <link>http://pbonte.github.io/publication/8675058/</link>
+      <link>http://pieterbonte.be/publication/8675058/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>http://pbonte.github.io/publication/8675058/</guid>
+      <guid>http://pieterbonte.be/publication/8675058/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Context-aware route planning : a personalized and situation-aware multi-modal transport routing approach</title>
-      <link>http://pbonte.github.io/publication/8681056/</link>
+      <link>http://pieterbonte.be/publication/8681056/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>http://pbonte.github.io/publication/8681056/</guid>
+      <guid>http://pieterbonte.be/publication/8681056/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Distributed continuous home care provisioning through personalized monitoring &amp; treatment planning</title>
-      <link>http://pbonte.github.io/publication/8665815/</link>
+      <link>http://pieterbonte.be/publication/8665815/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>http://pbonte.github.io/publication/8665815/</guid>
+      <guid>http://pieterbonte.be/publication/8665815/</guid>
       <description></description>
     </item>
     
     <item>
       <title>RDF Stream processing prototyping with streaming MASSIF</title>
-      <link>http://pbonte.github.io/publication/8681059/</link>
+      <link>http://pieterbonte.be/publication/8681059/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>http://pbonte.github.io/publication/8681059/</guid>
+      <guid>http://pieterbonte.be/publication/8681059/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Slides</title>
-      <link>http://pbonte.github.io/slides/example/</link>
+      <link>http://pieterbonte.be/slides/example/</link>
       <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>http://pbonte.github.io/slides/example/</guid>
+      <guid>http://pieterbonte.be/slides/example/</guid>
       <description>&lt;h1 id=&#34;create-slides-in-markdown-with-wowchemy&#34;&gt;Create slides in Markdown with Wowchemy&lt;/h1&gt;
 &lt;p&gt;&lt;a href=&#34;https://wowchemy.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Wowchemy&lt;/a&gt; | &lt;a href=&#34;https://owchemy.com/docs/managing-content/#create-slides&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Documentation&lt;/a&gt;&lt;/p&gt;
 &lt;hr&gt;
@@ -211,150 +230,137 @@ Three
     
     <item>
       <title>C-Sprite : efficient hierarchical reasoning for rapid RDF stream processing</title>
-      <link>http://pbonte.github.io/publication/8635009/</link>
+      <link>http://pieterbonte.be/publication/8635009/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>http://pbonte.github.io/publication/8635009/</guid>
+      <guid>http://pieterbonte.be/publication/8635009/</guid>
       <description></description>
     </item>
     
     <item>
       <title>DIVIDE : adaptive context-aware query derivation for IoT data streams</title>
-      <link>http://pbonte.github.io/publication/8665820/</link>
+      <link>http://pieterbonte.be/publication/8665820/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>http://pbonte.github.io/publication/8665820/</guid>
+      <guid>http://pieterbonte.be/publication/8665820/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Efficiënte verwerking van heterogene IoT-data aan de hand van expressieve redeneertechnieken</title>
-      <link>http://pbonte.github.io/publication/8612860/</link>
+      <link>http://pieterbonte.be/publication/8612860/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>http://pbonte.github.io/publication/8612860/</guid>
+      <guid>http://pieterbonte.be/publication/8612860/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Semantics-based platform for context-aware and personalized robot interaction in the internet of robotic things</title>
-      <link>http://pbonte.github.io/publication/8603541/</link>
+      <link>http://pieterbonte.be/publication/8603541/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>http://pbonte.github.io/publication/8603541/</guid>
+      <guid>http://pieterbonte.be/publication/8603541/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Subset reasoning for event-based systems</title>
-      <link>http://pbonte.github.io/publication/8627930/</link>
+      <link>http://pieterbonte.be/publication/8627930/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>http://pbonte.github.io/publication/8627930/</guid>
+      <guid>http://pieterbonte.be/publication/8627930/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Towards optimizing hospital patient transports by automatically identifying interpretable causes of delays</title>
-      <link>http://pbonte.github.io/publication/8623325/</link>
+      <link>http://pieterbonte.be/publication/8623325/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>http://pbonte.github.io/publication/8623325/</guid>
+      <guid>http://pieterbonte.be/publication/8623325/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A query model for ontology-based event processing over RDF streams</title>
-      <link>http://pbonte.github.io/publication/8581984/</link>
+      <link>http://pieterbonte.be/publication/8581984/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>http://pbonte.github.io/publication/8581984/</guid>
+      <guid>http://pieterbonte.be/publication/8581984/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Context-aware patient monitoring through sensor streams</title>
-      <link>http://pbonte.github.io/publication/8577848/</link>
+      <link>http://pieterbonte.be/publication/8577848/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>http://pbonte.github.io/publication/8577848/</guid>
+      <guid>http://pieterbonte.be/publication/8577848/</guid>
       <description></description>
     </item>
     
     <item>
       <title>SENSdesc : connect sensor queries and context</title>
-      <link>http://pbonte.github.io/publication/8552458/</link>
+      <link>http://pieterbonte.be/publication/8552458/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>http://pbonte.github.io/publication/8552458/</guid>
+      <guid>http://pieterbonte.be/publication/8552458/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Sharing health data in Belgium : a home care case study using the Vitalink platform</title>
-      <link>http://pbonte.github.io/publication/8550825/</link>
+      <link>http://pieterbonte.be/publication/8550825/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>http://pbonte.github.io/publication/8550825/</guid>
+      <guid>http://pieterbonte.be/publication/8550825/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Streaming MASSIF : cascading reasoning for efficient processing of iot data streams</title>
-      <link>http://pbonte.github.io/publication/8586329/</link>
+      <link>http://pieterbonte.be/publication/8586329/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>http://pbonte.github.io/publication/8586329/</guid>
+      <guid>http://pieterbonte.be/publication/8586329/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Towards a cascading reasoning framework to support responsive ambient-intelligent healthcare interventions</title>
-      <link>http://pbonte.github.io/publication/8581923/</link>
+      <link>http://pieterbonte.be/publication/8581923/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>http://pbonte.github.io/publication/8581923/</guid>
+      <guid>http://pieterbonte.be/publication/8581923/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Context-aware and self-learning dynamic transport scheduling in hospitals</title>
-      <link>http://pbonte.github.io/publication/8541544/</link>
+      <link>http://pieterbonte.be/publication/8541544/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>http://pbonte.github.io/publication/8541544/</guid>
+      <guid>http://pieterbonte.be/publication/8541544/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The MASSIF platform : a modular and semantic platform for the development of flexible IoT services</title>
-      <link>http://pbonte.github.io/publication/8533438/</link>
+      <link>http://pieterbonte.be/publication/8533438/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>http://pbonte.github.io/publication/8533438/</guid>
+      <guid>http://pieterbonte.be/publication/8533438/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The OCarePlatform : a context-aware system to support independent living</title>
-      <link>http://pbonte.github.io/publication/8541182/</link>
+      <link>http://pieterbonte.be/publication/8541182/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>http://pbonte.github.io/publication/8541182/</guid>
+      <guid>http://pieterbonte.be/publication/8541182/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Towards ontology based event processing</title>
-      <link>http://pbonte.github.io/publication/8506060/</link>
+      <link>http://pieterbonte.be/publication/8506060/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>http://pbonte.github.io/publication/8506060/</guid>
+      <guid>http://pieterbonte.be/publication/8506060/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Example Project</title>
-      <link>http://pbonte.github.io/project/example/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>http://pbonte.github.io/project/example/</guid>
-      <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
-&lt;p&gt;Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p&gt;
-&lt;p&gt;Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.&lt;/p&gt;
-&lt;p&gt;Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.&lt;/p&gt;
-&lt;p&gt;Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Welcome to Wowchemy, the website builder for Hugo</title>
-      <link>http://pbonte.github.io/post/getting-started/</link>
+      <link>http://pieterbonte.be/post/getting-started/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>http://pbonte.github.io/post/getting-started/</guid>
+      <guid>http://pieterbonte.be/post/getting-started/</guid>
       <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
 &lt;ol&gt;
 &lt;li&gt;The Wowchemy website builder for Hugo, along with its starter templates, is designed for professional creators, educators, and teams/organizations - although it can be used to create any kind of site&lt;/li&gt;
@@ -446,97 +452,97 @@ Three
     
     <item>
       <title>Generic semantic platform for the user-friendly development of intelligent IoT services</title>
-      <link>http://pbonte.github.io/publication/8506056/</link>
+      <link>http://pieterbonte.be/publication/8506056/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>http://pbonte.github.io/publication/8506056/</guid>
+      <guid>http://pieterbonte.be/publication/8506056/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Improving OWL RL reasoning in N3 by using specialized rules</title>
-      <link>http://pbonte.github.io/publication/8503498/</link>
+      <link>http://pieterbonte.be/publication/8503498/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>http://pbonte.github.io/publication/8503498/</guid>
+      <guid>http://pieterbonte.be/publication/8503498/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Learning semantic rules for intelligent transport scheduling in hospitals</title>
-      <link>http://pbonte.github.io/publication/8505900/</link>
+      <link>http://pieterbonte.be/publication/8505900/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>http://pbonte.github.io/publication/8505900/</guid>
+      <guid>http://pieterbonte.be/publication/8505900/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Mining semantic rules for optimizing transport assignments in hospitals</title>
-      <link>http://pbonte.github.io/publication/8506052/</link>
+      <link>http://pieterbonte.be/publication/8506052/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>http://pbonte.github.io/publication/8506052/</guid>
+      <guid>http://pieterbonte.be/publication/8506052/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Semantic context consolidation and rule learning for optimized transport assignments in hospitals</title>
-      <link>http://pbonte.github.io/publication/8500134/</link>
+      <link>http://pieterbonte.be/publication/8500134/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>http://pbonte.github.io/publication/8500134/</guid>
+      <guid>http://pieterbonte.be/publication/8500134/</guid>
       <description></description>
     </item>
     
     <item>
       <title>User-friendly and scalable platform for the design of intelligent IoT services : a smart office use case</title>
-      <link>http://pbonte.github.io/publication/8506046/</link>
+      <link>http://pieterbonte.be/publication/8506046/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>http://pbonte.github.io/publication/8506046/</guid>
+      <guid>http://pieterbonte.be/publication/8506046/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Evaluation and optimized usage of OWL 2 reasoners in an event-based eHealth context</title>
-      <link>http://pbonte.github.io/publication/6990308/</link>
+      <link>http://pieterbonte.be/publication/6990308/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
-      <guid>http://pbonte.github.io/publication/6990308/</guid>
+      <guid>http://pieterbonte.be/publication/6990308/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Event-driven rule-based reasoning using EYE</title>
-      <link>http://pbonte.github.io/publication/7033546/</link>
+      <link>http://pieterbonte.be/publication/7033546/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
-      <guid>http://pbonte.github.io/publication/7033546/</guid>
+      <guid>http://pieterbonte.be/publication/7033546/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Ontology reasoning using rules in an eHealth context</title>
-      <link>http://pbonte.github.io/publication/7034224/</link>
+      <link>http://pieterbonte.be/publication/7034224/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
-      <guid>http://pbonte.github.io/publication/7034224/</guid>
+      <guid>http://pieterbonte.be/publication/7034224/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Semantic intelligence for real-time automated media production</title>
-      <link>http://pbonte.github.io/publication/7237124/</link>
+      <link>http://pieterbonte.be/publication/7237124/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
-      <guid>http://pbonte.github.io/publication/7237124/</guid>
+      <guid>http://pieterbonte.be/publication/7237124/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Towards a social and context-aware multi-sensor fall detection and risk assessment platform</title>
-      <link>http://pbonte.github.io/publication/7235308/</link>
+      <link>http://pieterbonte.be/publication/7235308/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
-      <guid>http://pbonte.github.io/publication/7235308/</guid>
+      <guid>http://pieterbonte.be/publication/7235308/</guid>
       <description></description>
     </item>
     
     <item>
       <title>OCareClouds: improving home care by interconnecting elderly, care networks and their living environments</title>
-      <link>http://pbonte.github.io/publication/5660331/</link>
+      <link>http://pieterbonte.be/publication/5660331/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
-      <guid>http://pbonte.github.io/publication/5660331/</guid>
+      <guid>http://pieterbonte.be/publication/5660331/</guid>
       <description></description>
     </item>
     

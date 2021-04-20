@@ -2,69 +2,69 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>&#34;IoT&#34; | Academic</title>
-    <link>http://pbonte.github.io/tag/iot/</link>
-      <atom:link href="http://pbonte.github.io/tag/iot/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://pieterbonte.be/tag/iot/</link>
+      <atom:link href="http://pieterbonte.be/tag/iot/index.xml" rel="self" type="application/rss+xml" />
     <description>&#34;IoT&#34;</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://pbonte.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>http://pieterbonte.be/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>&#34;IoT&#34;</title>
-      <link>http://pbonte.github.io/tag/iot/</link>
+      <link>http://pieterbonte.be/tag/iot/</link>
     </image>
     
     <item>
       <title>Efficiënte verwerking van heterogene IoT-data aan de hand van expressieve redeneertechnieken</title>
-      <link>http://pbonte.github.io/publication/8612860/</link>
+      <link>http://pieterbonte.be/publication/8612860/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>http://pbonte.github.io/publication/8612860/</guid>
+      <guid>http://pieterbonte.be/publication/8612860/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Semantics-based platform for context-aware and personalized robot interaction in the internet of robotic things</title>
-      <link>http://pbonte.github.io/publication/8603541/</link>
+      <link>http://pieterbonte.be/publication/8603541/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>http://pbonte.github.io/publication/8603541/</guid>
+      <guid>http://pieterbonte.be/publication/8603541/</guid>
       <description></description>
     </item>
     
     <item>
       <title>SENSdesc : connect sensor queries and context</title>
-      <link>http://pbonte.github.io/publication/8552458/</link>
+      <link>http://pieterbonte.be/publication/8552458/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>http://pbonte.github.io/publication/8552458/</guid>
+      <guid>http://pieterbonte.be/publication/8552458/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Streaming MASSIF : cascading reasoning for efficient processing of iot data streams</title>
-      <link>http://pbonte.github.io/publication/8586329/</link>
+      <link>http://pieterbonte.be/publication/8586329/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>http://pbonte.github.io/publication/8586329/</guid>
+      <guid>http://pieterbonte.be/publication/8586329/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The MASSIF platform : a modular and semantic platform for the development of flexible IoT services</title>
-      <link>http://pbonte.github.io/publication/8533438/</link>
+      <link>http://pieterbonte.be/publication/8533438/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>http://pbonte.github.io/publication/8533438/</guid>
+      <guid>http://pieterbonte.be/publication/8533438/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Generic semantic platform for the user-friendly development of intelligent IoT services</title>
-      <link>http://pbonte.github.io/publication/8506056/</link>
+      <link>http://pieterbonte.be/publication/8506056/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>http://pbonte.github.io/publication/8506056/</guid>
+      <guid>http://pieterbonte.be/publication/8506056/</guid>
       <description></description>
     </item>
     
     <item>
       <title>User-friendly and scalable platform for the design of intelligent IoT services : a smart office use case</title>
-      <link>http://pbonte.github.io/publication/8506046/</link>
+      <link>http://pieterbonte.be/publication/8506046/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>http://pbonte.github.io/publication/8506046/</guid>
+      <guid>http://pieterbonte.be/publication/8506046/</guid>
       <description></description>
     </item>
     

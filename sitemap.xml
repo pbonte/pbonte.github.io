@@ -3,18 +3,53 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://pbonte.github.io/</loc>
+    <loc>http://pieterbonte.be/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://pbonte.github.io/talk/example/</loc>
+    <loc>http://pieterbonte.be/talk/example/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://pbonte.github.io/talk/</loc>
+    <loc>http://pieterbonte.be/talk/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://pieterbonte.be/project/</loc>
+    <lastmod>2021-04-20T12:21:57+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://pieterbonte.be/tag/rsp/</loc>
+    <lastmod>2021-04-20T12:21:57+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://pieterbonte.be/project/rsp4j/</loc>
+    <lastmod>2021-04-20T12:21:57+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://pieterbonte.be/tag/stream-reasoning/</loc>
+    <lastmod>2021-04-20T12:21:57+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://pieterbonte.be/tags/</loc>
+    <lastmod>2021-04-20T12:21:57+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://pieterbonte.be/tag/cascading-reasoning/</loc>
+    <lastmod>2021-04-20T11:44:31+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://pieterbonte.be/project/streamingmassif/</loc>
+    <lastmod>2021-04-20T11:44:31+02:00</lastmod>
   </url>
   
   <url>
@@ -23,127 +58,112 @@
   </url>
   
   <url>
-    <loc>http://pbonte.github.io/tag/benchmark/</loc>
+    <loc>http://pieterbonte.be/tag/benchmark/</loc>
     <lastmod>2021-04-20T11:31:36+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://pbonte.github.io/tag/expressive-reasoning/</loc>
+    <loc>http://pieterbonte.be/tag/expressive-reasoning/</loc>
     <lastmod>2021-04-20T11:31:36+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://pbonte.github.io/tag/expressive-stream-reasoning/</loc>
+    <loc>http://pieterbonte.be/tag/expressive-stream-reasoning/</loc>
     <lastmod>2021-04-20T11:31:36+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://pbonte.github.io/tag/reasoning/</loc>
+    <loc>http://pieterbonte.be/tag/reasoning/</loc>
     <lastmod>2021-04-20T11:31:36+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://pbonte.github.io/tag/rsp/</loc>
+    <loc>http://pieterbonte.be/tag/rsp4j/</loc>
+    <lastmod>2021-04-19T19:02:42+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://pieterbonte.be/tag/web-stream-processing/</loc>
+    <lastmod>2021-04-19T19:02:42+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://pieterbonte.be/publication-type/1/</loc>
+    <lastmod>2021-04-20T11:31:36+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc></loc>
+    <lastmod>2021-04-19T19:02:43+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc></loc>
+    <lastmod>2021-04-20T11:31:36+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc></loc>
+    <lastmod>2021-04-20T11:31:36+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc></loc>
+    <lastmod>2021-04-20T11:31:36+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://pieterbonte.be/publication_types/</loc>
+    <lastmod>2021-04-20T11:31:36+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://pieterbonte.be/publication/</loc>
+    <lastmod>2021-04-20T11:31:36+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc></loc>
+    <lastmod>2021-04-19T19:02:43+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://pieterbonte.be/publication/tommasini-2020-rsp-4-j/</loc>
+    <lastmod>2021-04-19T19:02:42+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://pieterbonte.be/publication/bonte-2021-towards/</loc>
+    <lastmod>2021-04-20T11:31:36+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://pieterbonte.be/tag/dissect/</loc>
+    <lastmod>2021-04-19T19:02:42+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://pieterbonte.be/tag/embeddings/</loc>
+    <lastmod>2021-04-19T19:02:42+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://pieterbonte.be/tag/knowledge-graph-embeddings/</loc>
+    <lastmod>2021-04-19T19:02:42+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://pieterbonte.be/tag/massif/</loc>
     <lastmod>2021-04-19T19:02:45+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://pbonte.github.io/tag/rsp4j/</loc>
-    <lastmod>2021-04-19T19:02:42+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://pbonte.github.io/tag/stream-reasoning/</loc>
-    <lastmod>2021-04-20T11:31:36+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://pbonte.github.io/tag/web-stream-processing/</loc>
-    <lastmod>2021-04-19T19:02:42+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://pbonte.github.io/publication-type/1/</loc>
-    <lastmod>2021-04-20T11:31:36+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc></loc>
+    <loc>http://pieterbonte.be/tag/streaming-massif/</loc>
     <lastmod>2021-04-19T19:02:43+02:00</lastmod>
   </url>
   
   <url>
-    <loc></loc>
-    <lastmod>2021-04-20T11:31:36+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc></loc>
-    <lastmod>2021-04-20T11:31:36+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc></loc>
-    <lastmod>2021-04-20T11:31:36+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://pbonte.github.io/publication_types/</loc>
-    <lastmod>2021-04-20T11:31:36+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://pbonte.github.io/publication/</loc>
-    <lastmod>2021-04-20T11:31:36+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc></loc>
-    <lastmod>2021-04-19T19:02:43+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://pbonte.github.io/publication/tommasini-2020-rsp-4-j/</loc>
-    <lastmod>2021-04-19T19:02:42+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://pbonte.github.io/tags/</loc>
-    <lastmod>2021-04-20T11:31:36+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://pbonte.github.io/publication/bonte-2021-towards/</loc>
-    <lastmod>2021-04-20T11:31:36+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://pbonte.github.io/tag/dissect/</loc>
-    <lastmod>2021-04-19T19:02:42+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://pbonte.github.io/tag/embeddings/</loc>
-    <lastmod>2021-04-19T19:02:42+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://pbonte.github.io/tag/knowledge-graph-embeddings/</loc>
-    <lastmod>2021-04-19T19:02:42+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://pbonte.github.io/tag/massif/</loc>
-    <lastmod>2021-04-19T19:02:45+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://pbonte.github.io/tag/streaming-massif/</loc>
-    <lastmod>2021-04-19T19:02:43+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://pbonte.github.io/tag/transport/</loc>
+    <loc>http://pieterbonte.be/tag/transport/</loc>
     <lastmod>2021-04-19T19:02:42+02:00</lastmod>
   </url>
   
@@ -158,17 +178,17 @@
   </url>
   
   <url>
-    <loc>http://pbonte.github.io/publication/8675058/</loc>
+    <loc>http://pieterbonte.be/publication/8675058/</loc>
     <lastmod>2021-04-19T19:02:42+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://pbonte.github.io/publication/8681056/</loc>
+    <loc>http://pieterbonte.be/publication/8681056/</loc>
     <lastmod>2021-04-19T19:02:42+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://pbonte.github.io/publication/8665815/</loc>
+    <loc>http://pieterbonte.be/publication/8665815/</loc>
     <lastmod>2021-04-19T19:02:42+02:00</lastmod>
   </url>
   
@@ -203,7 +223,7 @@
   </url>
   
   <url>
-    <loc>http://pbonte.github.io/publication/8681059/</loc>
+    <loc>http://pieterbonte.be/publication/8681059/</loc>
     <lastmod>2021-04-19T19:02:42+02:00</lastmod>
   </url>
   
@@ -213,162 +233,162 @@
   </url>
   
   <url>
-    <loc>http://pbonte.github.io/slides/</loc>
+    <loc>http://pieterbonte.be/slides/</loc>
     <lastmod>2019-02-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://pbonte.github.io/slides/example/</loc>
+    <loc>http://pieterbonte.be/slides/example/</loc>
     <lastmod>2019-02-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://pbonte.github.io/tag/context-aware/</loc>
+    <loc>http://pieterbonte.be/tag/context-aware/</loc>
     <lastmod>2021-04-19T19:02:46+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://pbonte.github.io/tag/continuous-care/</loc>
+    <loc>http://pieterbonte.be/tag/continuous-care/</loc>
     <lastmod>2021-04-19T19:02:43+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://pbonte.github.io/tag/devices/</loc>
+    <loc>http://pieterbonte.be/tag/devices/</loc>
     <lastmod>2021-04-19T19:02:43+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://pbonte.github.io/tag/dynamic-transportation/</loc>
+    <loc>http://pieterbonte.be/tag/dynamic-transportation/</loc>
     <lastmod>2021-04-19T19:02:43+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://pbonte.github.io/tag/ehealth/</loc>
+    <loc>http://pieterbonte.be/tag/ehealth/</loc>
     <lastmod>2021-04-19T19:02:46+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://pbonte.github.io/tag/event-based/</loc>
+    <loc>http://pieterbonte.be/tag/event-based/</loc>
     <lastmod>2021-04-19T19:02:43+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://pbonte.github.io/tag/health/</loc>
+    <loc>http://pieterbonte.be/tag/health/</loc>
     <lastmod>2021-04-19T19:02:43+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://pbonte.github.io/tag/hierarchical-reasoning/</loc>
+    <loc>http://pieterbonte.be/tag/hierarchical-reasoning/</loc>
     <lastmod>2021-04-19T19:02:42+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://pbonte.github.io/tag/hospital-transport/</loc>
+    <loc>http://pieterbonte.be/tag/hospital-transport/</loc>
     <lastmod>2021-04-19T19:02:43+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://pbonte.github.io/tag/internet-of-things/</loc>
+    <loc>http://pieterbonte.be/tag/internet-of-things/</loc>
     <lastmod>2021-04-19T19:02:43+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://pbonte.github.io/tag/iot/</loc>
+    <loc>http://pieterbonte.be/tag/iot/</loc>
     <lastmod>2021-04-19T19:02:45+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://pbonte.github.io/tag/management/</loc>
+    <loc>http://pieterbonte.be/tag/management/</loc>
     <lastmod>2021-04-19T19:02:44+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://pbonte.github.io/tag/middleware/</loc>
+    <loc>http://pieterbonte.be/tag/middleware/</loc>
     <lastmod>2021-04-19T19:02:43+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://pbonte.github.io/tag/nurse-call/</loc>
+    <loc>http://pieterbonte.be/tag/nurse-call/</loc>
     <lastmod>2021-04-19T19:02:43+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://pbonte.github.io/tag/ontologies/</loc>
+    <loc>http://pieterbonte.be/tag/ontologies/</loc>
     <lastmod>2021-04-19T19:02:43+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://pbonte.github.io/tag/ontology/</loc>
+    <loc>http://pieterbonte.be/tag/ontology/</loc>
     <lastmod>2021-04-19T19:02:46+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://pbonte.github.io/tag/personalization/</loc>
+    <loc>http://pieterbonte.be/tag/personalization/</loc>
     <lastmod>2021-04-19T19:02:43+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://pbonte.github.io/tag/rule-learning/</loc>
+    <loc>http://pieterbonte.be/tag/rule-learning/</loc>
     <lastmod>2021-04-19T19:02:45+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://pbonte.github.io/tag/semantics/</loc>
+    <loc>http://pieterbonte.be/tag/semantics/</loc>
     <lastmod>2021-04-19T19:02:43+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://pbonte.github.io/tag/social-robots/</loc>
+    <loc>http://pieterbonte.be/tag/social-robots/</loc>
     <lastmod>2021-04-19T19:02:43+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://pbonte.github.io/tag/streams/</loc>
+    <loc>http://pieterbonte.be/tag/streams/</loc>
     <lastmod>2021-04-19T19:02:44+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://pbonte.github.io/tag/systems/</loc>
+    <loc>http://pieterbonte.be/tag/systems/</loc>
     <lastmod>2021-04-19T19:02:43+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://pbonte.github.io/tag/trust/</loc>
+    <loc>http://pieterbonte.be/tag/trust/</loc>
     <lastmod>2021-04-19T19:02:43+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://pbonte.github.io/publication-type/2/</loc>
+    <loc>http://pieterbonte.be/publication-type/2/</loc>
     <lastmod>2021-04-19T19:02:46+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://pbonte.github.io/publication-type/7/</loc>
+    <loc>http://pieterbonte.be/publication-type/7/</loc>
     <lastmod>2021-04-19T19:02:42+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://pbonte.github.io/publication/8635009/</loc>
-    <lastmod>2021-04-19T19:02:42+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc></loc>
-    <lastmod>2021-04-19T19:02:43+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://pbonte.github.io/publication/8665820/</loc>
-    <lastmod>2021-04-19T19:02:43+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://pbonte.github.io/publication/8612860/</loc>
+    <loc>http://pieterbonte.be/publication/8635009/</loc>
     <lastmod>2021-04-19T19:02:42+02:00</lastmod>
   </url>
   
   <url>
     <loc></loc>
+    <lastmod>2021-04-19T19:02:43+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://pieterbonte.be/publication/8665820/</loc>
+    <lastmod>2021-04-19T19:02:43+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://pieterbonte.be/publication/8612860/</loc>
+    <lastmod>2021-04-19T19:02:42+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc></loc>
     <lastmod>2021-04-19T19:02:46+02:00</lastmod>
   </url>
   
@@ -378,107 +398,102 @@
   </url>
   
   <url>
-    <loc>http://pbonte.github.io/publication/8603541/</loc>
+    <loc>http://pieterbonte.be/publication/8603541/</loc>
     <lastmod>2021-04-19T19:02:43+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://pbonte.github.io/publication/8627930/</loc>
+    <loc>http://pieterbonte.be/publication/8627930/</loc>
     <lastmod>2021-04-19T19:02:43+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://pbonte.github.io/publication/8623325/</loc>
+    <loc>http://pieterbonte.be/publication/8623325/</loc>
     <lastmod>2021-04-19T19:02:43+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://pbonte.github.io/tag/adherence/</loc>
+    <loc>http://pieterbonte.be/tag/adherence/</loc>
     <lastmod>2021-04-19T19:02:44+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://pbonte.github.io/tag/belgium/</loc>
+    <loc>http://pieterbonte.be/tag/belgium/</loc>
     <lastmod>2021-04-19T19:02:44+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://pbonte.github.io/tag/cascading-reasoning/</loc>
+    <loc>http://pieterbonte.be/tag/challenges/</loc>
     <lastmod>2021-04-19T19:02:44+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://pbonte.github.io/tag/challenges/</loc>
+    <loc>http://pieterbonte.be/tag/cloud/</loc>
     <lastmod>2021-04-19T19:02:44+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://pbonte.github.io/tag/cloud/</loc>
+    <loc>http://pieterbonte.be/tag/communication/</loc>
     <lastmod>2021-04-19T19:02:44+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://pbonte.github.io/tag/communication/</loc>
+    <loc>http://pieterbonte.be/tag/complex-event-recognition/</loc>
     <lastmod>2021-04-19T19:02:44+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://pbonte.github.io/tag/complex-event-recognition/</loc>
+    <loc>http://pieterbonte.be/tag/health-data/</loc>
     <lastmod>2021-04-19T19:02:44+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://pbonte.github.io/tag/health-data/</loc>
+    <loc>http://pieterbonte.be/tag/healthcare/</loc>
     <lastmod>2021-04-19T19:02:44+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://pbonte.github.io/tag/healthcare/</loc>
+    <loc>http://pieterbonte.be/tag/interventions/</loc>
     <lastmod>2021-04-19T19:02:44+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://pbonte.github.io/tag/interventions/</loc>
+    <loc>http://pieterbonte.be/tag/medication-compliance/</loc>
     <lastmod>2021-04-19T19:02:44+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://pbonte.github.io/tag/medication-compliance/</loc>
+    <loc>http://pieterbonte.be/tag/outcomes/</loc>
     <lastmod>2021-04-19T19:02:44+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://pbonte.github.io/tag/outcomes/</loc>
+    <loc>http://pieterbonte.be/tag/pervasive-healthcare/</loc>
     <lastmod>2021-04-19T19:02:44+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://pbonte.github.io/tag/pervasive-healthcare/</loc>
+    <loc>http://pieterbonte.be/tag/physicians/</loc>
     <lastmod>2021-04-19T19:02:44+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://pbonte.github.io/tag/physicians/</loc>
+    <loc>http://pieterbonte.be/tag/sparql/</loc>
     <lastmod>2021-04-19T19:02:44+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://pbonte.github.io/tag/sparql/</loc>
+    <loc>http://pieterbonte.be/tag/vision/</loc>
     <lastmod>2021-04-19T19:02:44+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://pbonte.github.io/tag/vision/</loc>
+    <loc>http://pieterbonte.be/tag/vitalink/</loc>
     <lastmod>2021-04-19T19:02:44+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://pbonte.github.io/tag/vitalink/</loc>
-    <lastmod>2021-04-19T19:02:44+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://pbonte.github.io/publication/8581984/</loc>
+    <loc>http://pieterbonte.be/publication/8581984/</loc>
     <lastmod>2021-04-19T19:02:43+02:00</lastmod>
   </url>
   
@@ -488,17 +503,17 @@
   </url>
   
   <url>
-    <loc>http://pbonte.github.io/publication/8577848/</loc>
+    <loc>http://pieterbonte.be/publication/8577848/</loc>
     <lastmod>2021-04-19T19:02:43+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://pbonte.github.io/publication/8552458/</loc>
+    <loc>http://pieterbonte.be/publication/8552458/</loc>
     <lastmod>2021-04-19T19:02:43+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://pbonte.github.io/publication/8550825/</loc>
+    <loc>http://pieterbonte.be/publication/8550825/</loc>
     <lastmod>2021-04-19T19:02:44+02:00</lastmod>
   </url>
   
@@ -508,27 +523,27 @@
   </url>
   
   <url>
-    <loc>http://pbonte.github.io/publication/8586329/</loc>
+    <loc>http://pieterbonte.be/publication/8586329/</loc>
     <lastmod>2021-04-19T19:02:43+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://pbonte.github.io/publication/8581923/</loc>
+    <loc>http://pieterbonte.be/publication/8581923/</loc>
     <lastmod>2021-04-19T19:02:44+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://pbonte.github.io/tag/inductive-reasoning/</loc>
+    <loc>http://pieterbonte.be/tag/inductive-reasoning/</loc>
     <lastmod>2021-04-19T19:02:45+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://pbonte.github.io/tag/semantic-web/</loc>
+    <loc>http://pieterbonte.be/tag/semantic-web/</loc>
     <lastmod>2021-04-19T19:02:44+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://pbonte.github.io/tag/stream-processing/</loc>
+    <loc>http://pieterbonte.be/tag/stream-processing/</loc>
     <lastmod>2021-04-19T19:02:44+02:00</lastmod>
   </url>
   
@@ -538,7 +553,7 @@
   </url>
   
   <url>
-    <loc>http://pbonte.github.io/publication/8541544/</loc>
+    <loc>http://pieterbonte.be/publication/8541544/</loc>
     <lastmod>2021-04-19T19:02:44+02:00</lastmod>
   </url>
   
@@ -568,17 +583,17 @@
   </url>
   
   <url>
-    <loc>http://pbonte.github.io/publication/8533438/</loc>
+    <loc>http://pieterbonte.be/publication/8533438/</loc>
     <lastmod>2021-04-19T19:02:44+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://pbonte.github.io/publication/8541182/</loc>
+    <loc>http://pieterbonte.be/publication/8541182/</loc>
     <lastmod>2021-04-19T19:02:44+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://pbonte.github.io/publication/8506060/</loc>
+    <loc>http://pieterbonte.be/publication/8506060/</loc>
     <lastmod>2021-04-19T19:02:44+02:00</lastmod>
   </url>
   
@@ -588,32 +603,17 @@
   </url>
   
   <url>
-    <loc>http://pbonte.github.io/tag/deep-learning/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://pbonte.github.io/project/example/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://pbonte.github.io/project/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://pbonte.github.io/tag/academic/</loc>
+    <loc>http://pieterbonte.be/tag/academic/</loc>
     <lastmod>2020-12-13T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://pbonte.github.io/categories/</loc>
+    <loc>http://pieterbonte.be/categories/</loc>
     <lastmod>2020-12-13T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://pbonte.github.io/category/demo/</loc>
+    <loc>http://pieterbonte.be/category/demo/</loc>
     <lastmod>2020-12-13T00:00:00+00:00</lastmod>
   </url>
   
@@ -623,12 +623,12 @@
   </url>
   
   <url>
-    <loc>http://pbonte.github.io/post/</loc>
+    <loc>http://pieterbonte.be/post/</loc>
     <lastmod>2020-12-13T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://pbonte.github.io/post/getting-started/</loc>
+    <loc>http://pieterbonte.be/post/getting-started/</loc>
     <lastmod>2020-12-13T00:00:00+00:00</lastmod>
   </url>
   
@@ -638,27 +638,27 @@
   </url>
   
   <url>
-    <loc>http://pbonte.github.io/tag/%E5%BC%80%E6%BA%90/</loc>
+    <loc>http://pieterbonte.be/tag/%E5%BC%80%E6%BA%90/</loc>
     <lastmod>2020-12-13T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://pbonte.github.io/category/%E6%95%99%E7%A8%8B/</loc>
+    <loc>http://pieterbonte.be/category/%E6%95%99%E7%A8%8B/</loc>
     <lastmod>2020-12-13T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://pbonte.github.io/tag/notation3/</loc>
+    <loc>http://pieterbonte.be/tag/notation3/</loc>
     <lastmod>2021-04-19T19:02:46+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://pbonte.github.io/tag/owl-2-rl/</loc>
+    <loc>http://pieterbonte.be/tag/owl-2-rl/</loc>
     <lastmod>2021-04-19T19:02:46+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://pbonte.github.io/tag/rule-based-reasoning/</loc>
+    <loc>http://pieterbonte.be/tag/rule-based-reasoning/</loc>
     <lastmod>2021-04-19T19:02:45+02:00</lastmod>
   </url>
   
@@ -673,12 +673,12 @@
   </url>
   
   <url>
-    <loc>http://pbonte.github.io/publication/8506056/</loc>
+    <loc>http://pieterbonte.be/publication/8506056/</loc>
     <lastmod>2021-04-19T19:02:44+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://pbonte.github.io/publication/8503498/</loc>
+    <loc>http://pieterbonte.be/publication/8503498/</loc>
     <lastmod>2021-04-19T19:02:45+02:00</lastmod>
   </url>
   
@@ -693,107 +693,27 @@
   </url>
   
   <url>
-    <loc>http://pbonte.github.io/publication/8505900/</loc>
+    <loc>http://pieterbonte.be/publication/8505900/</loc>
     <lastmod>2021-04-19T19:02:45+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://pbonte.github.io/publication/8506052/</loc>
+    <loc>http://pieterbonte.be/publication/8506052/</loc>
     <lastmod>2021-04-19T19:02:45+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://pbonte.github.io/publication/8500134/</loc>
-    <lastmod>2021-04-19T19:02:45+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc></loc>
-    <lastmod>2021-04-19T19:02:45+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://pbonte.github.io/publication/8506046/</loc>
+    <loc>http://pieterbonte.be/publication/8500134/</loc>
     <lastmod>2021-04-19T19:02:45+02:00</lastmod>
   </url>
   
   <url>
     <loc></loc>
-    <lastmod>2021-04-19T19:02:46+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://pbonte.github.io/tag/activity-recognition/</loc>
-    <lastmod>2021-04-19T19:02:46+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://pbonte.github.io/tag/classification/</loc>
-    <lastmod>2021-04-19T19:02:46+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://pbonte.github.io/tag/daily-life/</loc>
-    <lastmod>2021-04-19T19:02:46+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://pbonte.github.io/tag/detection-system/</loc>
-    <lastmod>2021-04-19T19:02:46+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://pbonte.github.io/tag/fall-detection/</loc>
-    <lastmod>2021-04-19T19:02:46+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://pbonte.github.io/tag/fall-risk-assessment/</loc>
-    <lastmod>2021-04-19T19:02:46+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://pbonte.github.io/tag/media/</loc>
     <lastmod>2021-04-19T19:02:45+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://pbonte.github.io/tag/motion/</loc>
-    <lastmod>2021-04-19T19:02:46+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://pbonte.github.io/tag/networks/</loc>
-    <lastmod>2021-04-19T19:02:46+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://pbonte.github.io/tag/semantic/</loc>
-    <lastmod>2021-04-19T19:02:46+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://pbonte.github.io/tag/sensor/</loc>
-    <lastmod>2021-04-19T19:02:46+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc></loc>
-    <lastmod>2021-04-19T19:02:46+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc></loc>
-    <lastmod>2021-04-19T19:02:46+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://pbonte.github.io/publication/6990308/</loc>
-    <lastmod>2021-04-19T19:02:45+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://pbonte.github.io/publication/7033546/</loc>
+    <loc>http://pieterbonte.be/publication/8506046/</loc>
     <lastmod>2021-04-19T19:02:45+02:00</lastmod>
   </url>
   
@@ -803,8 +723,58 @@
   </url>
   
   <url>
-    <loc></loc>
+    <loc>http://pieterbonte.be/tag/activity-recognition/</loc>
+    <lastmod>2021-04-19T19:02:46+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://pieterbonte.be/tag/classification/</loc>
+    <lastmod>2021-04-19T19:02:46+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://pieterbonte.be/tag/daily-life/</loc>
+    <lastmod>2021-04-19T19:02:46+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://pieterbonte.be/tag/detection-system/</loc>
+    <lastmod>2021-04-19T19:02:46+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://pieterbonte.be/tag/fall-detection/</loc>
+    <lastmod>2021-04-19T19:02:46+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://pieterbonte.be/tag/fall-risk-assessment/</loc>
+    <lastmod>2021-04-19T19:02:46+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://pieterbonte.be/tag/media/</loc>
     <lastmod>2021-04-19T19:02:45+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://pieterbonte.be/tag/motion/</loc>
+    <lastmod>2021-04-19T19:02:46+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://pieterbonte.be/tag/networks/</loc>
+    <lastmod>2021-04-19T19:02:46+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://pieterbonte.be/tag/semantic/</loc>
+    <lastmod>2021-04-19T19:02:46+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://pieterbonte.be/tag/sensor/</loc>
+    <lastmod>2021-04-19T19:02:46+02:00</lastmod>
   </url>
   
   <url>
@@ -818,27 +788,17 @@
   </url>
   
   <url>
-    <loc>http://pbonte.github.io/publication/7034224/</loc>
-    <lastmod>2021-04-19T19:02:46+02:00</lastmod>
+    <loc>http://pieterbonte.be/publication/6990308/</loc>
+    <lastmod>2021-04-19T19:02:45+02:00</lastmod>
   </url>
   
   <url>
-    <loc></loc>
+    <loc>http://pieterbonte.be/publication/7033546/</loc>
     <lastmod>2021-04-19T19:02:45+02:00</lastmod>
   </url>
   
   <url>
     <loc></loc>
-    <lastmod>2021-04-19T19:02:45+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://pbonte.github.io/publication/7237124/</loc>
-    <lastmod>2021-04-19T19:02:45+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://pbonte.github.io/publication/7235308/</loc>
     <lastmod>2021-04-19T19:02:46+02:00</lastmod>
   </url>
   
@@ -858,7 +818,47 @@
   </url>
   
   <url>
-    <loc>http://pbonte.github.io/publication/5660331/</loc>
+    <loc>http://pieterbonte.be/publication/7034224/</loc>
+    <lastmod>2021-04-19T19:02:46+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc></loc>
+    <lastmod>2021-04-19T19:02:45+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc></loc>
+    <lastmod>2021-04-19T19:02:45+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://pieterbonte.be/publication/7237124/</loc>
+    <lastmod>2021-04-19T19:02:45+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://pieterbonte.be/publication/7235308/</loc>
+    <lastmod>2021-04-19T19:02:46+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc></loc>
+    <lastmod>2021-04-19T19:02:45+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc></loc>
+    <lastmod>2021-04-19T19:02:46+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc></loc>
+    <lastmod>2021-04-19T19:02:46+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://pieterbonte.be/publication/5660331/</loc>
     <lastmod>2021-04-19T19:02:46+02:00</lastmod>
   </url>
   
@@ -878,7 +878,7 @@
   </url>
   
   <url>
-    <loc>http://pbonte.github.io/tag/privacy/security/</loc>
+    <loc>http://pieterbonte.be/tag/privacy/security/</loc>
   </url>
   
 </urlset>
