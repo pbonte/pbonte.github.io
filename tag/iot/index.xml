@@ -5,12 +5,20 @@
     <link>http://pieterbonte.be/tag/iot/</link>
       <atom:link href="http://pieterbonte.be/tag/iot/index.xml" rel="self" type="application/rss+xml" />
     <description>&#34;IoT&#34;</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>http://pieterbonte.be/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>&#34;IoT&#34;</title>
       <link>http://pieterbonte.be/tag/iot/</link>
     </image>
+    
+    <item>
+      <title>Unsupervised Anomaly Detection for Communication Networks: An Autoencoder Approach</title>
+      <link>http://pieterbonte.be/publication/bonte-2020-unsupervised/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>http://pieterbonte.be/publication/bonte-2020-unsupervised/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Efficiënte verwerking van heterogene IoT-data aan de hand van expressieve redeneertechnieken</title>
