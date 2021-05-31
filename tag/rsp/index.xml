@@ -5,7 +5,7 @@
     <link>http://pieterbonte.be/tag/rsp/</link>
       <atom:link href="http://pieterbonte.be/tag/rsp/index.xml" rel="self" type="application/rss+xml" />
     <description>RSP</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 20 Apr 2021 12:21:57 +0200</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 31 May 2021 07:03:55 +0200</lastBuildDate>
     <image>
       <url>http://pieterbonte.be/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
       <title>RSP</title>
@@ -13,12 +13,45 @@
     </image>
     
     <item>
+      <title>OWL2Streams: an Evaluation Framework for Expressive Stream Reasoning </title>
+      <link>http://pieterbonte.be/project/owl2streams/</link>
+      <pubDate>Mon, 31 May 2021 07:03:55 +0200</pubDate>
+      <guid>http://pieterbonte.be/project/owl2streams/</guid>
+      <description>&lt;h2 id=&#34;need-for-expressive-stream-reasoning-benchmark&#34;&gt;Need for Expressive Stream Reasoning Benchmark&lt;/h2&gt;
+&lt;p&gt;Various benchmarks exist to evaluate expressive reasoning over static data sources. On the other hand, a plethora of benchmarks exists to evaluate RDF Stream Processing with no or limited support for reasoning. (Support for RDFS reasoning at most.) However, no benchmarks are available to evaluate expressive reasoning over continuous data streams. Therefore, we introduce &lt;strong&gt;OWL2Streams&lt;/strong&gt;, an evaluation framework for expressive stream reasoning.&lt;/p&gt;
+&lt;h2 id=&#34;why-expressive-reasoning&#34;&gt;Why Expressive Reasoning?&lt;/h2&gt;
+&lt;p&gt;Many domains rely on rich background knowledge to fully capture the domain, such as Pervasive Health or the Internet of Things (IoT), requiring Expressive Reasoning to fully capture their domain knowledge. Furthermore,  most IoT labeled ontologies on &lt;a href=&#34;https://lov.linkeddata.es/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Linked Open Vocabularies&lt;/a&gt;  require expressive reasoning techniques, such as OWL2 DL, to be fully interpreted.&lt;/p&gt;
+&lt;h2 id=&#34;pushing-optimizations&#34;&gt;Pushing Optimizations&lt;/h2&gt;
+&lt;p&gt;OWL2Streams aims at pushing optimizations for expressive reasoning over continuous data streams. It makes a distinction between static data, describing background information, and streaming data.
+OWL2Streams pushes optimizations for the following challenges:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;Size of the static data&lt;/em&gt;: the larger the size of the static data, the slower the reasoning. Optimizations can focus on only extracting relevant parts of the static data.&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Expressivity of the ontology&lt;/em&gt;: the expressivity negatively impacts the reasoning time, optimizations can focus on extracting only relevant statements from the ontology TBox.&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Frequency of the stream&lt;/em&gt;: the faster the updates in the stream, the faster the reasoning process needs to be able to provide results. Optimizations can focus on first filtering relevant facts from the data.&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Number of parallel streams&lt;/em&gt;: More streams imply more data, however, challenges arise when data from various streams need to be correlated.&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Numeric data streams&lt;/em&gt;: in domains such as the IoT, many streams contain numeric data. However,  data property reasoning is not supported by many OWL2 reasoners. Optimizations could focus on filtering out events with numeric values that are not useful.&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Data Expiration&lt;/em&gt;: next to reasoning over the addition of data, the removal of data is even more complex. Optimizations could investigate adapted incremental reasoning techniques for expressive reasoning. (Currently, none exist for OWL2 DL.)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;supported-scenarios&#34;&gt;Supported Scenarios&lt;/h2&gt;
+&lt;p&gt;At this point, OWL2Streams supports three different scenarios focussing on different optimization opportunities. These scenarios are:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;Smart City&lt;/em&gt;: an adaption of the &lt;a href=&#34;https://github.com/CityBench/Benchmark&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;City Bench&lt;/a&gt; containing more elaborate background knowledge.&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Smart Building&lt;/em&gt;:  a COVID-19 scenario, consisting of sensors that measure the air quality in various rooms. The domain knowledge allows to infer if certain rooms have higher probabilities for COVID-19 infections, based on the air quality and the activities in each room.&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;University Management&lt;/em&gt;: An adaptation of the &lt;a href=&#34;https://github.com/kracr/owl2bench&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;OWL2Bench benchmark&lt;/a&gt;.
+This scenario consists of a university where students register and enroll in a certain program. The data stream consists of the enrollment of the students.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;conclusion&#34;&gt;Conclusion&lt;/h2&gt;
+&lt;p&gt;OWL2Streams is an evaluation framework for pushing the expressivity in Reasoning over continuous data streams. If you are interested, checkout out the &lt;a href=&#34;https://github.com/IBCNServices/OWL2Streams&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Github Repository&lt;/a&gt; or &lt;a href=&#34;../../#contact&#34;&gt;contact&lt;/a&gt; me for more information.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>RSP4J: An API for RSP</title>
       <link>http://pieterbonte.be/project/rsp4j/</link>
       <pubDate>Tue, 20 Apr 2021 12:21:57 +0200</pubDate>
       <guid>http://pieterbonte.be/project/rsp4j/</guid>
       <description>&lt;p&gt;RSP4J is a library to build RDF Stream Processing (RSP) Engines according with the reference model RSP-QL.&lt;/p&gt;
-&lt;p&gt;RSP4J is inspired by the OWL API, and other work that aim at spreading the Semantic Web (Stream Reasoning) research by means of practical and usable software tools.&lt;/p&gt;
+&lt;p&gt;RSP4J is inspired by the OWL API, and other works that aim at spreading the Semantic Web (Stream Reasoning) research by means of practical and usable software tools.&lt;/p&gt;
 </description>
     </item>
     

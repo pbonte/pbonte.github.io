@@ -18,6 +18,16 @@
   </url>
   
   <url>
+    <loc>http://pieterbonte.be/tag/benchmark/</loc>
+    <lastmod>2021-05-31T07:03:55+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://pieterbonte.be/tag/expressive-stream-reasoning/</loc>
+    <lastmod>2021-05-31T07:03:55+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://pieterbonte.be/project/owl2streams/</loc>
     <lastmod>2021-05-31T07:03:55+02:00</lastmod>
   </url>
@@ -28,23 +38,28 @@
   </url>
   
   <url>
+    <loc>http://pieterbonte.be/tag/reasoning/</loc>
+    <lastmod>2021-05-31T07:03:55+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://pieterbonte.be/tag/rsp/</loc>
-    <lastmod>2021-04-20T12:21:57+02:00</lastmod>
+    <lastmod>2021-05-31T07:03:55+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://pieterbonte.be/tag/stream-reasoning/</loc>
+    <lastmod>2021-05-31T07:03:55+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://pieterbonte.be/tags/</loc>
+    <lastmod>2021-05-31T07:03:55+02:00</lastmod>
   </url>
   
   <url>
     <loc>http://pieterbonte.be/project/rsp4j/</loc>
     <lastmod>2021-04-20T12:21:57+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://pieterbonte.be/tag/stream-reasoning/</loc>
-    <lastmod>2021-04-20T12:21:57+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://pieterbonte.be/tags/</loc>
-    <lastmod>2021-04-21T14:09:53+02:00</lastmod>
   </url>
   
   <url>
@@ -63,22 +78,7 @@
   </url>
   
   <url>
-    <loc>http://pieterbonte.be/tag/benchmark/</loc>
-    <lastmod>2021-04-20T11:31:36+02:00</lastmod>
-  </url>
-  
-  <url>
     <loc>http://pieterbonte.be/tag/expressive-reasoning/</loc>
-    <lastmod>2021-04-20T11:31:36+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://pieterbonte.be/tag/expressive-stream-reasoning/</loc>
-    <lastmod>2021-04-20T11:31:36+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://pieterbonte.be/tag/reasoning/</loc>
     <lastmod>2021-04-20T11:31:36+02:00</lastmod>
   </url>
   

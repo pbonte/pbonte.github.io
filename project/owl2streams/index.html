@@ -30,7 +30,7 @@
   
     
   
-  <meta name="description" content="" />
+  <meta name="description" content="A benchmark for expressive stream reasoning over continuous data streams" />
 
   
   <link rel="alternate" hreflang="en-us" href="http://pieterbonte.be/project/owl2streams/" />
@@ -284,16 +284,15 @@
   
   
     
-    
   
   
-  <meta property="twitter:card" content="summary" />
+  <meta property="twitter:card" content="summary_large_image" />
   
   <meta property="og:site_name" content="Academic" />
   <meta property="og:url" content="http://pieterbonte.be/project/owl2streams/" />
-  <meta property="og:title" content="OWL2Streams | Academic" />
-  <meta property="og:description" content="" /><meta property="og:image" content="http://pieterbonte.be/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png" />
-    <meta property="twitter:image" content="http://pieterbonte.be/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png" /><meta property="og:locale" content="en-us" />
+  <meta property="og:title" content="OWL2Streams: an Evaluation Framework for Expressive Stream Reasoning  | Academic" />
+  <meta property="og:description" content="A benchmark for expressive stream reasoning over continuous data streams" /><meta property="og:image" content="http://pieterbonte.be/project/owl2streams/featured.png" />
+    <meta property="twitter:image" content="http://pieterbonte.be/project/owl2streams/featured.png" /><meta property="og:locale" content="en-us" />
   
     
       <meta
@@ -325,7 +324,11 @@
     "@type": "WebPage",
     "@id": "http://pieterbonte.be/project/owl2streams/"
   },
-  "headline": "OWL2Streams",
+  "headline": "OWL2Streams: an Evaluation Framework for Expressive Stream Reasoning ",
+  
+  "image": [
+    "http://pieterbonte.be/project/owl2streams/featured.png"
+  ],
   
   "datePublished": "2021-05-31T07:03:55+02:00",
   "dateModified": "2021-05-31T07:03:55+02:00",
@@ -343,7 +346,7 @@
       "url": "http://pieterbonte.be/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_192x192_fill_lanczos_center_2.png"
     }
   },
-  "description": ""
+  "description": "A benchmark for expressive stream reasoning over continuous data streams"
 }
 </script>
 
@@ -359,7 +362,7 @@
 
 
 
-  <title>OWL2Streams | Academic</title>
+  <title>OWL2Streams: an Evaluation Framework for Expressive Stream Reasoning  | Academic</title>
 </head>
 
 
@@ -703,18 +706,26 @@
 
 
 
-  
+
+
+
+
+
+
+
 
   
-  
-  
-<div class="article-container pt-3">
-  <h1>OWL2Streams</h1>
-
-  
-
   
     
+  
+
+
+<div class="article-container pt-3">
+  <h1>OWL2Streams: an Evaluation Framework for Expressive Stream Reasoning </h1>
+
+  
+
+  
 
 
 <div class="article-metadata">
@@ -748,13 +759,83 @@
 
 </div>
 
-    
+  
+
+
+
+
+<div class="btn-links mb-3">
+  
+  
+
+
+
 
 
 
 
 
   
+    
+  
+
+
+
+<a class="btn btn-outline-primary btn-page-header" href="https://openreview.net/pdf?id=eFmY-maDKE" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+    
+  
+<a class="btn btn-outline-primary btn-page-header" href="https://youtu.be/qROHNtSGbdM" target="_blank" rel="noopener">
+  Video
+</a>
+
+
+
+
+  
+  
+  
+    
+  
+  
+  
+  
+  
+    
+  
+  <a class="btn btn-outline-primary btn-page-header" href="https://github.com/IBCNServices/OWL2Streams" target="_blank" rel="noopener">
+    <i class="fab fa-github mr-1"></i>
+    Repo
+  </a>
+
+
+</div>
+
+
+</div>
+
+
+<div class="article-header article-container featured-image-wrapper mt-4 mb-4" style="max-width: 720px; max-height: 688px;">
+  <div style="position: relative">
+    <img src="/project/owl2streams/featured_hu3ec89f1487a8f254e4784583153a93d1_274626_720x0_resize_lanczos_2.png" alt="" class="featured-image">
+    
+  </div>
 </div>
 
 
@@ -762,7 +843,32 @@
   <div class="article-container">
 
     <div class="article-style">
-      
+      <h2 id="need-for-expressive-stream-reasoning-benchmark">Need for Expressive Stream Reasoning Benchmark</h2>
+<p>Various benchmarks exist to evaluate expressive reasoning over static data sources. On the other hand, a plethora of benchmarks exists to evaluate RDF Stream Processing with no or limited support for reasoning. (Support for RDFS reasoning at most.) However, no benchmarks are available to evaluate expressive reasoning over continuous data streams. Therefore, we introduce <strong>OWL2Streams</strong>, an evaluation framework for expressive stream reasoning.</p>
+<h2 id="why-expressive-reasoning">Why Expressive Reasoning?</h2>
+<p>Many domains rely on rich background knowledge to fully capture the domain, such as Pervasive Health or the Internet of Things (IoT), requiring Expressive Reasoning to fully capture their domain knowledge. Furthermore,  most IoT labeled ontologies on <a href="https://lov.linkeddata.es/" target="_blank" rel="noopener">Linked Open Vocabularies</a>  require expressive reasoning techniques, such as OWL2 DL, to be fully interpreted.</p>
+<h2 id="pushing-optimizations">Pushing Optimizations</h2>
+<p>OWL2Streams aims at pushing optimizations for expressive reasoning over continuous data streams. It makes a distinction between static data, describing background information, and streaming data.
+OWL2Streams pushes optimizations for the following challenges:</p>
+<ul>
+<li><em>Size of the static data</em>: the larger the size of the static data, the slower the reasoning. Optimizations can focus on only extracting relevant parts of the static data.</li>
+<li><em>Expressivity of the ontology</em>: the expressivity negatively impacts the reasoning time, optimizations can focus on extracting only relevant statements from the ontology TBox.</li>
+<li><em>Frequency of the stream</em>: the faster the updates in the stream, the faster the reasoning process needs to be able to provide results. Optimizations can focus on first filtering relevant facts from the data.</li>
+<li><em>Number of parallel streams</em>: More streams imply more data, however, challenges arise when data from various streams need to be correlated.</li>
+<li><em>Numeric data streams</em>: in domains such as the IoT, many streams contain numeric data. However,  data property reasoning is not supported by many OWL2 reasoners. Optimizations could focus on filtering out events with numeric values that are not useful.</li>
+<li><em>Data Expiration</em>: next to reasoning over the addition of data, the removal of data is even more complex. Optimizations could investigate adapted incremental reasoning techniques for expressive reasoning. (Currently, none exist for OWL2 DL.)</li>
+</ul>
+<h2 id="supported-scenarios">Supported Scenarios</h2>
+<p>At this point, OWL2Streams supports three different scenarios focussing on different optimization opportunities. These scenarios are:</p>
+<ul>
+<li><em>Smart City</em>: an adaption of the <a href="https://github.com/CityBench/Benchmark" target="_blank" rel="noopener">City Bench</a> containing more elaborate background knowledge.</li>
+<li><em>Smart Building</em>:  a COVID-19 scenario, consisting of sensors that measure the air quality in various rooms. The domain knowledge allows to infer if certain rooms have higher probabilities for COVID-19 infections, based on the air quality and the activities in each room.</li>
+<li><em>University Management</em>: An adaptation of the <a href="https://github.com/kracr/owl2bench" target="_blank" rel="noopener">OWL2Bench benchmark</a>.
+This scenario consists of a university where students register and enroll in a certain program. The data stream consists of the enrollment of the students.</li>
+</ul>
+<h2 id="conclusion">Conclusion</h2>
+<p>OWL2Streams is an evaluation framework for pushing the expressivity in Reasoning over continuous data streams. If you are interested, checkout out the <a href="https://github.com/IBCNServices/OWL2Streams" target="_blank" rel="noopener">Github Repository</a> or <a href="../../#contact">contact</a> me for more information.</p>
+
     </div>
 
     
@@ -771,6 +877,20 @@
 
 
 
+
+<div class="article-tags">
+  
+  <a class="badge badge-light" href="/tag/stream-reasoning/">Stream Reasoning</a>
+  
+  <a class="badge badge-light" href="/tag/reasoning/">Reasoning</a>
+  
+  <a class="badge badge-light" href="/tag/rsp/">RSP</a>
+  
+  <a class="badge badge-light" href="/tag/expressive-stream-reasoning/">Expressive Stream Reasoning</a>
+  
+  <a class="badge badge-light" href="/tag/benchmark/">Benchmark</a>
+  
+</div>
 
 
 
@@ -785,7 +905,7 @@
       
       
       <li>
-        <a href="https://twitter.com/intent/tweet?url=http://pieterbonte.be/project/owl2streams/&amp;text=OWL2Streams" target="_blank" rel="noopener" class="share-btn-twitter">
+        <a href="https://twitter.com/intent/tweet?url=http://pieterbonte.be/project/owl2streams/&amp;text=OWL2Streams:%20an%20Evaluation%20Framework%20for%20Expressive%20Stream%20Reasoning%20" target="_blank" rel="noopener" class="share-btn-twitter">
           <i class="fab fa-twitter"></i>
         </a>
       </li>
@@ -798,7 +918,7 @@
       
       
       <li>
-        <a href="https://www.facebook.com/sharer.php?u=http://pieterbonte.be/project/owl2streams/&amp;t=OWL2Streams" target="_blank" rel="noopener" class="share-btn-facebook">
+        <a href="https://www.facebook.com/sharer.php?u=http://pieterbonte.be/project/owl2streams/&amp;t=OWL2Streams:%20an%20Evaluation%20Framework%20for%20Expressive%20Stream%20Reasoning%20" target="_blank" rel="noopener" class="share-btn-facebook">
           <i class="fab fa-facebook"></i>
         </a>
       </li>
@@ -811,7 +931,7 @@
       
       
       <li>
-        <a href="mailto:?subject=OWL2Streams&amp;body=http://pieterbonte.be/project/owl2streams/" target="_blank" rel="noopener" class="share-btn-email">
+        <a href="mailto:?subject=OWL2Streams:%20an%20Evaluation%20Framework%20for%20Expressive%20Stream%20Reasoning%20&amp;body=http://pieterbonte.be/project/owl2streams/" target="_blank" rel="noopener" class="share-btn-email">
           <i class="fas fa-envelope"></i>
         </a>
       </li>
@@ -824,7 +944,7 @@
       
       
       <li>
-        <a href="https://www.linkedin.com/shareArticle?url=http://pieterbonte.be/project/owl2streams/&amp;title=OWL2Streams" target="_blank" rel="noopener" class="share-btn-linkedin">
+        <a href="https://www.linkedin.com/shareArticle?url=http://pieterbonte.be/project/owl2streams/&amp;title=OWL2Streams:%20an%20Evaluation%20Framework%20for%20Expressive%20Stream%20Reasoning%20" target="_blank" rel="noopener" class="share-btn-linkedin">
           <i class="fab fa-linkedin-in"></i>
         </a>
       </li>
@@ -837,7 +957,7 @@
       
       
       <li>
-        <a href="whatsapp://send?text=OWL2Streams%20http://pieterbonte.be/project/owl2streams/" target="_blank" rel="noopener" class="share-btn-whatsapp">
+        <a href="whatsapp://send?text=OWL2Streams:%20an%20Evaluation%20Framework%20for%20Expressive%20Stream%20Reasoning%20%20http://pieterbonte.be/project/owl2streams/" target="_blank" rel="noopener" class="share-btn-whatsapp">
           <i class="fab fa-whatsapp"></i>
         </a>
       </li>
@@ -850,7 +970,7 @@
       
       
       <li>
-        <a href="https://service.weibo.com/share/share.php?url=http://pieterbonte.be/project/owl2streams/&amp;title=OWL2Streams" target="_blank" rel="noopener" class="share-btn-weibo">
+        <a href="https://service.weibo.com/share/share.php?url=http://pieterbonte.be/project/owl2streams/&amp;title=OWL2Streams:%20an%20Evaluation%20Framework%20for%20Expressive%20Stream%20Reasoning%20" target="_blank" rel="noopener" class="share-btn-weibo">
           <i class="fab fa-weibo"></i>
         </a>
       </li>
@@ -998,6 +1118,17 @@
 
 
   
+  
+  <div class="article-widget content-widget-hr">
+    <h3>Related</h3>
+    <ul>
+      
+      <li><a href="/project/rsp4j/">RSP4J: An API for RSP</a></li>
+      
+      <li><a href="/project/streamingmassif/">StreamingMASSIF</a></li>
+      
+    </ul>
+  </div>
   
 
 
