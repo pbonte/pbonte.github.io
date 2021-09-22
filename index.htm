@@ -307,10 +307,36 @@
   
 
 <script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "WebSite","url": "http://pieterbonte.be/"
+
+      {
+  "@context": ["http://schema.org", { "foaf": "http://xmlns.com/foaf/0.1/",
+  "foaf:currentProject": {"@type":"@id"}}],
+  "@type": "Person",
+  "@id": "https://pietercolpaert.be/#me",
+  "http://www.w3.org/2006/vcard/ns#title": "Professor",
+  "foaf:givenName": { "@value": "Pieter", "@language": "en" },
+  "foaf:familyName": { "@value": "Colpaert", "@language": "en" },
+  "foaf:img": {"@id": "https://pietercolpaert.be/img/pc.jpg"},
+  "foaf:currentProject" : ["https://data.knows.idlab.ugent.be/project/mellon"] ,
+  "address": {
+    "@id": "https://data.vlaanderen.be/id/adres/20470097"
+  },
+  "colleague": [
+    "https://ruben.verborgh.org/profile/#me",
+    "https://sven-lieber.org/profile#me",
+    "https://pieterheyvaert.com/#me",
+    "http://www.rubensworks.net/#me",
+    "http://ben.de-meester.org/#me",
+     "http://csarven.ca/#i"
+  ],
+  "email": "mailto:pieter@openknowledge.be",
+  "image": "https://secure.gravatar.com/avatar/4d3cdc809a159635d9f59fff0e683659",
+  "jobTitle": "Prof. dr.",
+  "name": "Pieter Colpaert",
+  "telephone": "+32486747122",
+  "url": "https://pietercolpaert.be"
 }
+    
 </script>
 
 
