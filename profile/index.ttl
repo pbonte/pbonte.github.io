@@ -4,5 +4,6 @@
 <#me> a foaf:Person;
   foaf:givenName "Pieter"@en;
   foaf:familyName "Bonte"@en;
+  foaf:img <profile.jpg>;
   vcard:title "Researcher";
   foaf:mbox <mailto:Pieter.Bonte@UGent.be>.
