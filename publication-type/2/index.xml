@@ -5,12 +5,28 @@
     <link>http://pieterbonte.be/publication-type/2/</link>
       <atom:link href="http://pieterbonte.be/publication-type/2/index.xml" rel="self" type="application/rss+xml" />
     <description>2</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>http://pieterbonte.be/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
       <title>2</title>
       <link>http://pieterbonte.be/publication-type/2/</link>
     </image>
+    
+    <item>
+      <title>Bridging the gap between expressivity and efficiency in stream reasoning : a structural caching approach for IoT streams</title>
+      <link>http://pieterbonte.be/publication/8756504/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>http://pieterbonte.be/publication/8756504/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hierarchical pattern matching for anomaly detection in time series</title>
+      <link>http://pieterbonte.be/publication/8770497/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>http://pieterbonte.be/publication/8770497/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Semantics-based platform for context-aware and personalized robot interaction in the internet of robotic things</title>

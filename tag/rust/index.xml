@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Rust | Academic</title>
+    <link>http://pieterbonte.be/tag/rust/</link>
+      <atom:link href="http://pieterbonte.be/tag/rust/index.xml" rel="self" type="application/rss+xml" />
+    <description>Rust</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 11 Apr 2022 11:33:30 +0100</lastBuildDate>
+    <image>
+      <url>http://pieterbonte.be/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
+      <title>Rust</title>
+      <link>http://pieterbonte.be/tag/rust/</link>
+    </image>
+    
+    <item>
+      <title>RoXi Reasoner</title>
+      <link>http://pieterbonte.be/project/roxi/</link>
+      <pubDate>Mon, 11 Apr 2022 11:33:30 +0100</pubDate>
+      <guid>http://pieterbonte.be/project/roxi/</guid>
+      <description>&lt;p&gt;RoXi provides a uniform framework for Reactive Reasoning applications including:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Incremental maintenance&lt;/li&gt;
+&lt;li&gt;RDF Stream Processing&lt;/li&gt;
+&lt;li&gt;Temporal Reasoning&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;RoXi uses some of the internals of &lt;a href=&#34;https://github.com/oxigraph/oxigraph&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;oxigraph&lt;/a&gt;, including &lt;a href=&#34;https://crates.io/crates/spargebra&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;sparqlalgebra&lt;/a&gt; and &lt;a href=&#34;https://crates.io/crates/oxrdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;OxRDF&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;RoXi can be included as a library, run in server mode through CLI or in the browser using web assembly.
+You can try it out in your &lt;a href=&#34;https://pbonte.github.io/roxi/index.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;own browser&lt;/a&gt;!&lt;/p&gt;
+&lt;p&gt;RoXi supports datalog reasoning using &lt;a href=&#34;https://w3c.github.io/N3/spec/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;N3&lt;/a&gt; syntax. The whole N3 spec is currently not supported yet, but this is work in progress. Currently we support rules with plain datalog expressivity.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

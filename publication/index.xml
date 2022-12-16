@@ -5,12 +5,28 @@
     <link>http://pieterbonte.be/publication/</link>
       <atom:link href="http://pieterbonte.be/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>http://pieterbonte.be/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
       <title>Publications</title>
       <link>http://pieterbonte.be/publication/</link>
     </image>
+    
+    <item>
+      <title>Bridging the gap between expressivity and efficiency in stream reasoning : a structural caching approach for IoT streams</title>
+      <link>http://pieterbonte.be/publication/8756504/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>http://pieterbonte.be/publication/8756504/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hierarchical pattern matching for anomaly detection in time series</title>
+      <link>http://pieterbonte.be/publication/8770497/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>http://pieterbonte.be/publication/8770497/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>RSP4J: An API for RDF Stream Processing</title>
@@ -25,6 +41,14 @@
       <link>http://pieterbonte.be/publication/bonte-2021-towards/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
       <guid>http://pieterbonte.be/publication/bonte-2021-towards/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Walk extraction strategies for node embeddings with RDF2Vec in knowledge graphs</title>
+      <link>http://pieterbonte.be/publication/8724157/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>http://pieterbonte.be/publication/8724157/</guid>
       <description></description>
     </item>
     

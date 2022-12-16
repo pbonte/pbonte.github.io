@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Book | Academic</title>
+    <link>http://pieterbonte.be/tag/book/</link>
+      <atom:link href="http://pieterbonte.be/tag/book/index.xml" rel="self" type="application/rss+xml" />
+    <description>Book</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 16 Dec 2022 11:55:24 +0100</lastBuildDate>
+    <image>
+      <url>http://pieterbonte.be/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
+      <title>Book</title>
+      <link>http://pieterbonte.be/tag/book/</link>
+    </image>
+    
+    <item>
+      <title>Streaming Linked Data: From Vision to Practice</title>
+      <link>http://pieterbonte.be/post/streaminglinkeddata/</link>
+      <pubDate>Fri, 16 Dec 2022 11:55:24 +0100</pubDate>
+      <guid>http://pieterbonte.be/post/streaminglinkeddata/</guid>
+      <description>&lt;p&gt;I am excited to announce that together with Riccardo Tommasini, Fabiano Spiga, and Emanuele Della Valle, we wrote a book on Streaming Linked Data. The book provides a comprehensive overview of core concepts and technological foundations for continuous engineering of Web streams. It presents various systems and applications and includes real-world examples. Last not least, it introduces the readers to RSP4J, a novel open-source project that aims to gather community efforts in software engineering and empirical research.&lt;/p&gt;
+&lt;p&gt;The book starts with an introductory chapter that positions the work by explaining what motivates the design of specific techniques for processing data streams using Web technologies. Chapter 2 briefly summarizes the necessary background concepts and models needed to understand the remaining content of the book. Subsequently, chapter 3 focuses on processing RDF streams, taming data velocity in an open environment characterized by high data variety. It introduces query answering algorithms with RSP-QL and analytics functions over streaming data. Chapter 4 presents the life cycle of streaming linked data, it focuses on publishing streams on the Web as a prerequisite aspect to make data findable and accessible for applications. Chapter 5 touches on the problems of benchmarks and systems that analyze Web streams to foster technological progress. It surveys existing benchmarks and introduces guidelines that may support new practitioners in approaching the issue of continuous analytics. Finally, chapter 6 presents a list of examples and exercises that will help the reader to approach the area, get used to its practices and become confident in its technological possibilities.&lt;/p&gt;
+&lt;p&gt;Overall, this book is mainly written for graduate students and researchers in Web and stream data management. It collects research results and will guide the next generation of researchers and practitioners.&lt;/p&gt;
+&lt;p&gt;You can (pre)order the book &lt;a href=&#34;https://www.amazon.com/Streaming-Linked-Data-Vision-Practice/dp/3031153707/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here!&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
