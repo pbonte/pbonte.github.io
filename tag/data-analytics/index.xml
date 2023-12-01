@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>DATA ANALYTICS | Academic</title>
+    <link>http://pieterbonte.be/tag/data-analytics/</link>
+      <atom:link href="http://pieterbonte.be/tag/data-analytics/index.xml" rel="self" type="application/rss+xml" />
+    <description>DATA ANALYTICS</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://pieterbonte.be/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
+      <title>DATA ANALYTICS</title>
+      <link>http://pieterbonte.be/tag/data-analytics/</link>
+    </image>
+    
+    <item>
+      <title>Streaming linked data : a survey on life cycle compliance</title>
+      <link>http://pieterbonte.be/publication/01-h-25-d-7-r-52-eq-31-w-7-xy-4-g-9-qkm-2-d/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>http://pieterbonte.be/publication/01-h-25-d-7-r-52-eq-31-w-7-xy-4-g-9-qkm-2-d/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

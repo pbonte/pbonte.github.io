@@ -5,12 +5,44 @@
     <link>http://pieterbonte.be/publication-type/1/</link>
       <atom:link href="http://pieterbonte.be/publication-type/1/index.xml" rel="self" type="application/rss+xml" />
     <description>1</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>http://pieterbonte.be/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
       <title>1</title>
       <link>http://pieterbonte.be/publication-type/1/</link>
     </image>
+    
+    <item>
+      <title>&#39;LDESTS: Enabling efficient storage and querying of large volumes of time series data on Solid pods</title>
+      <link>http://pieterbonte.be/publication/01-hfrr-194-tm-7-b-2-n-4-d-5-rnj-8-r-8-mj/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>http://pieterbonte.be/publication/01-hfrr-194-tm-7-b-2-n-4-d-5-rnj-8-r-8-mj/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>POD-QUERY: Schema Mapping and Query Rewriting for Solid Pods</title>
+      <link>http://pieterbonte.be/publication/01-hfxxcedy-864-sva-6-vrarwq-64-d/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>http://pieterbonte.be/publication/01-hfxxcedy-864-sva-6-vrarwq-64-d/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>RoXi : a framework for reactive reasoning</title>
+      <link>http://pieterbonte.be/publication/01-h-3-m-1-dbbgmxg-1-hh-993-j-2-xkx-00/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>http://pieterbonte.be/publication/01-h-3-m-1-dbbgmxg-1-hh-993-j-2-xkx-00/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Towards cascading reasoning for generic edge processing</title>
+      <link>http://pieterbonte.be/publication/01-h-3-m-18-xqqgegs-8-tst-8-fzy-15-m-7/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>http://pieterbonte.be/publication/01-h-3-m-18-xqqgegs-8-tst-8-fzy-15-m-7/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>RSP4J: An API for RDF Stream Processing</title>

@@ -1,16 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>&#34;Internet of things&#34; | Academic</title>
+    <title>Internet of Things | Academic</title>
     <link>http://pieterbonte.be/tag/internet-of-things/</link>
       <atom:link href="http://pieterbonte.be/tag/internet-of-things/index.xml" rel="self" type="application/rss+xml" />
-    <description>&#34;Internet of things&#34;</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <description>Internet of Things</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>http://pieterbonte.be/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
-      <title>&#34;Internet of things&#34;</title>
+      <title>Internet of Things</title>
       <link>http://pieterbonte.be/tag/internet-of-things/</link>
     </image>
+    
+    <item>
+      <title>Context-aware query derivation for IoT data streams with DIVIDE enabling privacy by design</title>
+      <link>http://pieterbonte.be/publication/01-h-2-wjkqbsev-37-d-3-azdgpsz-0-n-6/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>http://pieterbonte.be/publication/01-h-2-wjkqbsev-37-d-3-azdgpsz-0-n-6/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Semantics-based platform for context-aware and personalized robot interaction in the internet of robotic things</title>

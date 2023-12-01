@@ -5,12 +5,20 @@
     <link>http://pieterbonte.be/tag/cascading-reasoning/</link>
       <atom:link href="http://pieterbonte.be/tag/cascading-reasoning/index.xml" rel="self" type="application/rss+xml" />
     <description>Cascading Reasoning</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 20 Apr 2021 11:44:31 +0200</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>http://pieterbonte.be/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
       <title>Cascading Reasoning</title>
       <link>http://pieterbonte.be/tag/cascading-reasoning/</link>
     </image>
+    
+    <item>
+      <title>Context-aware query derivation for IoT data streams with DIVIDE enabling privacy by design</title>
+      <link>http://pieterbonte.be/publication/01-h-2-wjkqbsev-37-d-3-azdgpsz-0-n-6/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>http://pieterbonte.be/publication/01-h-2-wjkqbsev-37-d-3-azdgpsz-0-n-6/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>StreamingMASSIF</title>

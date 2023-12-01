@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>INDOOR ENVIRONMENTS | Academic</title>
+    <link>http://pieterbonte.be/tag/indoor-environments/</link>
+      <atom:link href="http://pieterbonte.be/tag/indoor-environments/index.xml" rel="self" type="application/rss+xml" />
+    <description>INDOOR ENVIRONMENTS</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://pieterbonte.be/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
+      <title>INDOOR ENVIRONMENTS</title>
+      <link>http://pieterbonte.be/tag/indoor-environments/</link>
+    </image>
+    
+    <item>
+      <title>Real-time estimation and monitoring of COVID-19 aerosol transmission risk in office buildings</title>
+      <link>http://pieterbonte.be/publication/01-gx-2-yyjda-626-er-3-c-92-et-83-vme/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>http://pieterbonte.be/publication/01-gx-2-yyjda-626-er-3-c-92-et-83-vme/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

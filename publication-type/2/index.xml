@@ -5,12 +5,36 @@
     <link>http://pieterbonte.be/publication-type/2/</link>
       <atom:link href="http://pieterbonte.be/publication-type/2/index.xml" rel="self" type="application/rss+xml" />
     <description>2</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>http://pieterbonte.be/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
       <title>2</title>
       <link>http://pieterbonte.be/publication-type/2/</link>
     </image>
+    
+    <item>
+      <title>Context-aware query derivation for IoT data streams with DIVIDE enabling privacy by design</title>
+      <link>http://pieterbonte.be/publication/01-h-2-wjkqbsev-37-d-3-azdgpsz-0-n-6/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>http://pieterbonte.be/publication/01-h-2-wjkqbsev-37-d-3-azdgpsz-0-n-6/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Real-time estimation and monitoring of COVID-19 aerosol transmission risk in office buildings</title>
+      <link>http://pieterbonte.be/publication/01-gx-2-yyjda-626-er-3-c-92-et-83-vme/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>http://pieterbonte.be/publication/01-gx-2-yyjda-626-er-3-c-92-et-83-vme/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Streaming linked data : a survey on life cycle compliance</title>
+      <link>http://pieterbonte.be/publication/01-h-25-d-7-r-52-eq-31-w-7-xy-4-g-9-qkm-2-d/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>http://pieterbonte.be/publication/01-h-25-d-7-r-52-eq-31-w-7-xy-4-g-9-qkm-2-d/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Bridging the gap between expressivity and efficiency in stream reasoning : a structural caching approach for IoT streams</title>
